@@ -40,7 +40,7 @@ Using Gradle:
 Open your web browser and navigate to: http://localhost:8889
 
 ### Observation
-The project needs a .env file on the root of the project, with the following template
+The project needs a .env file on the root and on the resources folder of the project, with the following template
 ```
 SECRET_KEY=
 ISSUER=
