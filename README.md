@@ -37,7 +37,7 @@ Using Gradle:
 ```
 
 ### Access the Application
-Open your web browser and navigate to: ``` http://localhost:8889 ````
+Open your web browser and navigate to: http://localhost:8889
 
 ### Observation
 The project needs a .env file on the root of the project, with the following template
